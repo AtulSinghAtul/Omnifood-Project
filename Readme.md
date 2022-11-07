@@ -1,6 +1,6 @@
 # Omnifood-Project
 
-[Live Link]([https://www.google.com](https://atul-omnifood-project.netlify.app))
+[Live Link](https://www.google.com](https://atul-omnifood-project.netlify.app)
 
 **Project is fully Responsive**
 
