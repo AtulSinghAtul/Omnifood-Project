@@ -42,4 +42,5 @@
 
 ![badge](https://img.shields.io/badge/Udemy%20Project-Omnifood%20Project-brightgreen)
 
-![Project Screenshot](./Omnifood-Full-Page-Screenshot.png)
+
+![omnifood-project](https://user-images.githubusercontent.com/112545072/210030189-afae61aa-f9d4-4435-b794-99e40fe6a6a7.png)
