@@ -1,6 +1,6 @@
 # Omnifood-Project
 
-- ## [Project Live Link](https://atul-omnifood-project.netlify.app)**
+- ## [Project Live Link](https://atul-omnifood-project.netlify.app)
 > ### Social Media Links:
 
 - ### [Portfolio Website Link](https://www.findcoder.io/u/atulsinghatul)
